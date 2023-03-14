@@ -1,0 +1,4 @@
+[core]
+    remote = information_retrieval
+['remote "information_retrieval"']
+    url = gdrive://1KFscAliQhyx42wpG8tkGjZiUksLfP4K8
